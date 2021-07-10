@@ -56,6 +56,10 @@ img {
     margin: 0 5px;
 }
 
+.navbar a:hover {
+    border-bottom: #28a745 2px solid; 
+}
+
 .navbar ul {
     display: flex;
 }
